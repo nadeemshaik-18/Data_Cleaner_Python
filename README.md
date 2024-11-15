@@ -1,5 +1,8 @@
 # Ultimate Data Pre-Processing Tool: Data Cleaning Master
 
+## Project Overview
+![Example Image](Data-Analytics.png)
+
 **Data Cleaning Master** is a Python-based application engineered to simplify and accelerate dataset cleaning. By efficiently tackling duplicates and missing values, it delivers a polished dataset ready for analysis in just moments. Designed with user-friendliness in mind, this tool is optimized for performance, rigorously tested, and capable of handling extensive datasets with ease.
 
 ## Why Choose Data Cleaning Master?
